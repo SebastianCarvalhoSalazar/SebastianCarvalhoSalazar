@@ -20,24 +20,21 @@
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Prefect](https://img.shields.io/badge/Prefect-273346?style=for-the-badge&logo=prefect&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-![Acoustics](https://img.shields.io/badge/Acoustics-0088CC?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Digital Signal Processing](https://img.shields.io/badge/DSP-008080?style=for-the-badge&logo=signal&logoColor=white)
-![Fourier Transform](https://img.shields.io/badge/Fourier-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
-![Wavelets](https://img.shields.io/badge/Wavelets-4CAF50?style=for-the-badge&logo=wave&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8A2BE2?style=for-the-badge&logo=juce&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000FF?style=for-the-badge&logo=audacity&logoColor=white)
-![Sound Analysis](https://img.shields.io/badge/Sound%20Analysis-FF6347?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Audio Processing](https://img.shields.io/badge/Audio%20Processing-008080?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Waveform Analysis](https://img.shields.io/badge/Waveform%20Analysis-FF8C00?style=for-the-badge&logo=soundcloud&logoColor=white)
-![Signal Filtering](https://img.shields.io/badge/Signal%20Filtering-4B0082?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 ![Natural Language Processing](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-FFAA00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Digital Signal Processing](https://img.shields.io/badge/DSP-008080?style=for-the-badge&logo=signal&logoColor=white)
+![Fourier Transform](https://img.shields.io/badge/Fourier%20Transform-FF6F00?style=for-the-badge&logo=mathworks&logoColor=white)
+![Wavelet Transform](https://img.shields.io/badge/Wavelet%20Transform-4CAF50?style=for-the-badge&logo=wave&logoColor=white)
+![Audio Processing](https://img.shields.io/badge/Audio%20Processing-008080?style=for-the-badge&logo=soundcloud&logoColor=white)
+![Signal Filtering](https://img.shields.io/badge/Signal%20Filtering-4B0082?style=for-the-badge&logo=soundcloud&logoColor=white)
+
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-carvalho)

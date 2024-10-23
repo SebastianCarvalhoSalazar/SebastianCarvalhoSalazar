@@ -67,7 +67,7 @@
 
 ### 🌟 Featured Projects:
 - [**Happiness Prediction**](https://github.com/SebastianCarvalhoSalazar/HappinessPrediction): Predicting happiness using classification models and advanced hyperparameter optimization.
-- [**ML Regression Model**](https://github.com/SebastianCarvalhoSalazar/GraphInsight): GraphInsight is a recommendation system that uses a bipartite graph to link users and products based on their interactions. By calculating user similarities, it recommends products using Python libraries like Pandas and NetworkX, leveraging a synthetic dataset for experimentation.
+- [**GraphInsight**](https://github.com/SebastianCarvalhoSalazar/GraphInsight): GraphInsight is a recommendation system that uses a bipartite graph to link users and products based on their interactions. By calculating user similarities, it recommends products using Python libraries like Pandas and NetworkX, leveraging a synthetic dataset for experimentation.
 
 ---
 

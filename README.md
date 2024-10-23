@@ -45,3 +45,8 @@
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebastianCarvalhoSalazar&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianCarvalhoSalazar&layout=compact&theme=radical) |
 
 ---
+
+### 🎓 Certifications:
+
+- **Platzi Profile**: [Sebastian Carvalho](https://platzi.com/p/sebastian-carvalho/)
+

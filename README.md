@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Sebastian Carvalho Salazar!
 
-### Machine Learning Engineer | Sound Engineer | Data Scientist
+### Machine Learning Engineer 🤖 | 🎧 Sound Engineer | 🧠 Data Scientist
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -25,6 +28,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JUCE](https://img.shields.io/badge/JUCE-8A2BE2?style=for-the-badge&logo=juce&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
 ![Natural Language Processing](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -35,6 +39,7 @@
 ![Audio Processing](https://img.shields.io/badge/Audio%20Processing-008080?style=for-the-badge&logo=soundcloud&logoColor=white)
 ![Signal Filtering](https://img.shields.io/badge/Signal%20Filtering-4B0082?style=for-the-badge&logo=soundcloud&logoColor=white)
 
+---
 
 ### 🌍 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-carvalho)

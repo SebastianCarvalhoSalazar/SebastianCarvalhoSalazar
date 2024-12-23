@@ -66,6 +66,7 @@
 ---
 
 ### 🌟 Featured Projects:
+- [**Spark-NLP-Bank-Complaints-Classification**](https://github.com/SebastianCarvalhoSalazar/Spark-NLP-Bank-Complaints-Classification): This repository focuses on classifying customer complaints related to various banking products using Spark NLP. It includes natural language processing techniques, classification models, and advanced hyperparameter optimization.
 - [**Happiness Prediction**](https://github.com/SebastianCarvalhoSalazar/HappinessPrediction): Predicting happiness using classification models and advanced hyperparameter optimization.
 - [**GraphInsight**](https://github.com/SebastianCarvalhoSalazar/GraphInsight): GraphInsight is a recommendation system that uses a bipartite graph to link users and products based on their interactions. By calculating user similarities, it recommends products using Python libraries like Pandas and NetworkX, leveraging a synthetic dataset for experimentation.
 
